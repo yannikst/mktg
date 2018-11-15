@@ -1,1 +1,29 @@
-Paste
+
+<div class="col-md-6">
+
+<!-- example content starts here !-->
+<h4>This is content for the first col</h4>
+<ul>
+ 	<li>Use all our styles and elements inside the column</li>
+ 	<li>No Table needed</li>
+ 	<li>Very Sexy</li>
+</ul>
+<!-- example content ends here !-->
+
+</div>
+<div class="col-md-6">
+
+<!-- example content starts here !-->
+<h4>This is content for the second col</h4>
+<ul>
+ 	<li>Very Sexy</li>
+ 	<li>No Table needed</li>
+ 	<li>Use all our styles and elements inside the column</li>
+</ul>
+<!-- example content ends here !-->
+
+</div>
+</div
+
+
+class"mb-0"
